@@ -13,10 +13,10 @@ In addition, you will need to install
 - `HT-FL.py`: The main algorithm code.
 - `test_iid.py`: Test the distribution of data.
 - `modelsize.py`: Calculate the size of local model.
+- 'run_exps2.sh': Code of our experiments.
 - `graphs/`: Different type of hubs communication graph.
 - `Net/`: Realization of different local models.
 - `results/`: Results of our stimulation.
-- `data/`: Please place youre dataset here.
 
 ## Description of main parameters
 This is only a stimulation code for "HT-FL: Energy Efficient Federated Learning for IoT Applications with Non-IID Data" and have many aspects to improve. Experiments we run are written in run_exps2.sh. Key params are given as follows:  
