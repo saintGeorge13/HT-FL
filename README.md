@@ -1,4 +1,4 @@
-# HT-FL: Energy Efficient Federated Learning for IoT Applications with Non-IID Data  
+# HT-FL: Hybrid Training Federated Learning for Heterogeneous Edge-based IoT Networks
 ## Dependencies and Setup
 All code runs on Python 3.10.10 using PyTorch version 2.0.0
 In addition, you will need to install
